@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/marketing-project/static/css/main.57988f98.css",
+    "main.js": "/marketing-project/static/js/main.b9595ccd.js",
+    "static/media/about-intro.svg": "/marketing-project/static/media/about-intro.dc99b53cb7b13dc86ebd8c92362f897c.svg",
+    "index.html": "/marketing-project/index.html",
+    "main.57988f98.css.map": "/marketing-project/static/css/main.57988f98.css.map",
+    "main.b9595ccd.js.map": "/marketing-project/static/js/main.b9595ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57988f98.css",
+    "static/js/main.b9595ccd.js"
+  ]
+}
